@@ -4,6 +4,8 @@ _printf is a custom implementation of the C programming function printf. This pr
 
 Prototype: int _printf(const char *, ...);
 
-## Authors 
 
-Albert Rock Gangbadja & Paul-Wesley Jeanty
+## Authors 
+- Paul-Wesley Jeanty
+- Albert Rock Gangbadja
+
